@@ -1,5 +1,13 @@
-dmm.co.jp
-mgstage.com
-xcity.jp
-dmm.com
-amazon.co.jp
+payload:
+  - '+.dmm.co.jp'
+  - '+.mgstage.com'
+  - '+.xcity.jp'
+  - '+.dmm.com'
+  - '+.amazon.co.jp'
+
+
+
+
+
+
+
