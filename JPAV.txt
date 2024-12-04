@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,mgstage.com
-DOMAIN-SUFFIX,xcity.jp
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,amazon.co.jp
+dmm.co.jp
+mgstage.com
+xcity.jp
+dmm.com
+amazon.co.jp
